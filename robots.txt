@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://masary.github.io/sitemap.xml
